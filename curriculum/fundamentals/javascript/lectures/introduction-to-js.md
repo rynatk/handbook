@@ -4,9 +4,22 @@ draft: true
 video: https://www.youtube.com/watch?v=Z-Q_c2wg2w8&t=2651s&list=PLWwthP6_aKmdxLKyXwDh0XXEgsWarTEpI&index=7
 ---
 
-
-### META: Lesson Summary
-
+| Learning Objectives
+| ---
+| *javascript:* What is JavaScript?
+| *javascript:* node REPL
+| *javascript:* debugging in JS,
+| *javascript:* variables,
+| *javascript:* scoping of variables in JS,
+| *javascript:* linting,
+| *javascript:* formating code,
+| *javascript:* types: Number, bool, string
+| *javascript:* Events : Browser fired events,
+| *javascript:* Events: User Fired Events,
+| *javascript:* What is a function?
+| *javascript:* math => +-*/%
+| *javascript:* comment your code,
+| *javascript:* Intro to the DOM.
 
 
 ## Introduction to JS

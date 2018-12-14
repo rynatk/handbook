@@ -5,22 +5,19 @@ draft: true
 
 | Learning Objectives
 | ---
-| *html:* added classes to tag
-| *css:* how to use CSS (inline, style tag, *.css)
-| *css:* what is a CSS selector
-| *css:* selector based on tag 
-| *css:* selector based on class
-| *css:* selector based on id
-| *css:* selector based on location
-| *css:* scoping css using parent classes in selectors
+| *css:* styling with CSS (inline, style tag, *.css)
+| *html:* using the class attribute
+| *css:* using a CSS selector
+| *css:* creating selector based on tag 
+| *css:* creating selector based on class
+| *css:* creating selector based on id
+| *css:* creating selector based on location
+| *css:* creating complex selectors
+| *css:* rules of specificity
 | *css:* using multiple CSS classes
-| *css:* using multiple CSS classes
-| *css:* background images
-| *css:* Box model
-| *css:* shorthand css properties (margin, padding, etc)
-| *css:* px vs em vs rem
-
-
+| *css:* adding images to background
+| *css:* using the box model
+| *css:* explaining `px` vs `em` vs `rem`
 
 
 

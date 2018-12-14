@@ -6,18 +6,13 @@ draft: true
 
 | Learning Objectives
 | ---
-| *html:* linking to other pages
-| *html:* using a cdn
+| *html:* using a CDN
 | *html:* using font awesome
-| *css:* flexbox 
-| *css:* vertical centering with Flexbox
-| *css:* css variables
+| *css:* using flexbox to layout a page
+| *css:* using CSS grids to layout a page
+| *css:* using CSS variables
 
 
-
-## Navigation
-
-### Linking pages
 
 ### Flexbox
 

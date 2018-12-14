@@ -7,20 +7,21 @@ draft: true
 
 | Learning Objectives
 | ---
-| *general:* file management
-| *general:* using terminal
-| *general:* opening text editor
-| *general:* deploy to surge 
-| *general:* how the internet works
-| *javascript:* using npm
-| *html:* header stuff, like title, favicon, meta tags
+| *general:* file management for a developer
+| *general:* use the terminal to use the computer
+| *general:* using a text editor
+| *general:* deploy a website to the web
+| *general:* how the internet work
+| *javascript:* using npm to run tasks
+| *html:* the basics of an HTML page
+| *html:* the head of HTML page
+| *html:* the body of an HTML page
 | *html:* semantic HTML
-| *html:* tag: nav
-| *html:* head vs body
-| *html:* using emoji
+| *html:* common HTML tags (`nav`, `section`, `main`, `header` `hX`, `p`, `ul`, `img`,`a`)
+| *html:* finding the "right" HTML tag
+| *html:* HTML attributes
 | *html:* getting text on a page
-| *logistics:* how to use slack
-| *logistics:* turning in homework
+| *html:* linking to other pages
 
 
 ## Introduction
@@ -39,6 +40,20 @@ draft: true
 - [HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [HTML Tags](https://developer.mozilla.org/en-US/Learn/HTML/HTML_tags)
 
-## Demo: Goonies(or other idea) Fan Page
 
- - Basic HTML content
+
+## How do we create a basic HTML page
+
+- terminal skills
+- template generators
+
+
+## Demo: Create a simple webpage 
+
+
+## Navigation
+
+### Linking pages
+
+
+## Demo: Deploy to surge

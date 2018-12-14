@@ -6,11 +6,9 @@ draft: true
 
 | Learning Objectives
 | ---
-| *design:* mobile first design
-| *design:* responsive design
-| *css:* mobile first implementation
-| *css:* using media queries to build responsive UIs
-
+| *design:* creating a mobile-first design
+| *design:* creating a responsive design
+| *css:* using media queries to build responsive, mobile first UIs.
 
 ## Responsive Design
 

@@ -4,13 +4,12 @@ draft: true
 ---
 
 
-### META: Lesson summary
-This lesson covers:
-
-- **design:** mobile first design
-- **design:** responsive design
-- **css:** mobile first implementation
-- **css:** using media queries to build responsive UIs
+| Learning Objectives
+| ---
+| *design:* mobile first design
+| *design:* responsive design
+| *css:* mobile first implementation
+| *css:* using media queries to build responsive UIs
 
 
 ## Responsive Design

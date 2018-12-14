@@ -4,6 +4,11 @@ draft: true
 video: https://www.youtube.com/watch?v=Z-Q_c2wg2w8&t=2651s&list=PLWwthP6_aKmdxLKyXwDh0XXEgsWarTEpI&index=7
 ---
 
+
+### META: Lesson Summary
+
+
+
 ## Introduction to JS
 
 ### [What is JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)

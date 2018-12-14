@@ -4,15 +4,14 @@ draft: true
 ---
 
 
-### META: Lesson summary
-This lesson covers:
-
-- **html:** linking to other pages
-- **html:** using a cdn
-- **html:** using font awesome
-- **css:** flexbox 
-- **css:** vertical centering with Flexbox
-- **css:** css variables
+| Learning Objectives
+| ---
+| *html:* linking to other pages
+| *html:* using a cdn
+| *html:* using font awesome
+| *css:* flexbox 
+| *css:* vertical centering with Flexbox
+| *css:* css variables
 
 
 

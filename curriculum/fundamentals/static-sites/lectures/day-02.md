@@ -3,24 +3,22 @@ title: Styling Basics
 draft: true
 ---
 
-### META: Lesson summary
-This lesson covers:
-
-
-- **html:** added classes to tag
-- **css:** how to use CSS (inline, style tag, *.css)
-- **css:** what is a CSS selector
-- **css:** selector based on tag 
-- **css:** selector based on class
-- **css:** selector based on id
-- **css:** selector based on location
-- **css:** scoping css using parent classes in selectors
-- **css:** using multiple CSS classes
-- **css:** using multiple CSS classes
-- **css:** background images
-- **css:** Box model
-- **css:** shorthand css properties (margin, padding, etc)
-- **css:** px vs em vs rem
+| Learning Objectives
+| ---
+| *html:* added classes to tag
+| *css:* how to use CSS (inline, style tag, *.css)
+| *css:* what is a CSS selector
+| *css:* selector based on tag 
+| *css:* selector based on class
+| *css:* selector based on id
+| *css:* selector based on location
+| *css:* scoping css using parent classes in selectors
+| *css:* using multiple CSS classes
+| *css:* using multiple CSS classes
+| *css:* background images
+| *css:* Box model
+| *css:* shorthand css properties (margin, padding, etc)
+| *css:* px vs em vs rem
 
 
 

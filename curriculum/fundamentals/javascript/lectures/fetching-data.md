@@ -3,6 +3,16 @@ title: Fetching Data From Remote Servers
 draft: true
 ---
 
+
+| Learning Objectives
+| ---
+| *general:* What is an API?
+| *javascript:* Promises,
+| *javascript:* fetch and using apis,
+| *javascript:* defensive programing (planning for things going wrong)
+
+
+
 - Promises, APIs, Fetch, JSON
   - [Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   - [What is an API?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)

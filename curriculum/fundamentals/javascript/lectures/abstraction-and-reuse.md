@@ -3,6 +3,22 @@ title: Abstraction and Reuse
 draft: true
 ---
 
+| Learning Objectives
+| ---
+| *javascript:* Objects,
+| *javascript:* OOP,
+:* encapsulating logic for one action,
+| *javascript:* helper methods on class,
+| *javascript:* Abstraction,
+| *javascript:* Encapsulation
+| *javascript:* using data structures to store the data,
+| *javascript:* one function => one task,
+| *javascript:* using an constructor,
+| *javascript:* scoping around closures
+
+
+
+
 ### Abstraction & Re-use
   Abstraction is an important concept in Object-Oriented Programming. Often times when building an app, we'll end up doing the same sorts of operations, against the same objects, with little-to-no variation. When that is the case, we really don't want to have to put that code all over the application. What if we wanted to make a small change to it? If we're practicing abstraction, we can make that small change in one place instead of copying and pasting it all over the project.
   Take our cat example for instance:

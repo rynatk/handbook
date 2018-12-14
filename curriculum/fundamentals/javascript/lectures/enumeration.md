@@ -3,6 +3,14 @@ title: Blackjack Review + Array Enumeration
 draft: true
 ---
 
+| Learning Objectives
+| --- 
+| *javascript:* loops
+| *javascript:* map/filter/reduce,
+| *javascript:* learning from an example online,
+
+
+
 # Black Jack Questions
 
 # Map, Reduce, Filter

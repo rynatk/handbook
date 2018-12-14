@@ -3,6 +3,10 @@ title: Event Loop
 draft: true
 ---
 
+| Learning Objectives
+| ---
+| *javascript:* event loop
+
 ### Event Loop
 
 - Watch this [video](https://www.youtube.com/watch?v=8aGhZQkoFbQ&vl=en)

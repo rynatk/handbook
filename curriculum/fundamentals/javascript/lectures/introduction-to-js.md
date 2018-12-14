@@ -17,9 +17,16 @@ video: https://www.youtube.com/watch?v=Z-Q_c2wg2w8&t=2651s&list=PLWwthP6_aKmdxLK
 | *javascript:* Events : Browser fired events,
 | *javascript:* Events: User Fired Events,
 | *javascript:* What is a function?
+| *javascript:* Anonymous Functions
+| *javascript:* expressions vs functions,
 | *javascript:* math => +-*/%
 | *javascript:* comment your code,
 | *javascript:* Intro to the DOM.
+| *javascript:* Boolean logic of <, >, ===,
+| *javascript:* if statements
+| *javascript:* truthy and falsy
+| *javascript:* working with dates,
+
 
 
 ## Introduction to JS
@@ -148,6 +155,10 @@ Variables in programming languages allow us to store information and give that i
       newSentence
       -> "Gavin favoriteNumber is 84 or 14"
       ```
+  - Date
+    ``` javascript
+      new Date()
+    ```
 
 ### What is the DOM (Document Object Model)
 (approx 00:45:00)
@@ -253,3 +264,67 @@ Variables in programming languages allow us to store information and give that i
 
 ## DEMO: a simple "how many times have your clicked this button"
 (approx 1:35:00)
+
+
+### Control Structures
+(approx 00:11:00)
+
+- if/else
+
+```
+let isMyFavorite = (number) => {
+  if (number === 42) {
+    console.log('It is my favorite number')
+  } else {
+    console.log('This is not my favorite number')
+  }
+}
+
+isMyFavorite(1)
+ -> This is not my favorite number
+
+isMyFavorite(42)
+-> It is my favorite number
+
+```
+
+- use of double pipe operator `||` (or)
+
+```
+let isAnInstructorLong = (nameOfPerson) => {
+  if (nameOfPerson === 'Gavin') {
+    console.log('Yup!')
+  }
+  if (nameOfPerson === 'Jason') {
+    console.log('Yup!')
+  }
+  if (nameOfPerson === 'Mark') {
+    console.log('Yup!')
+  }
+}
+
+// Shorter way to write using `||`
+// if nameOfPerson is Gavin or Jason or Mark return 'Yup!'
+
+let isAnInstructorLong = (nameOfPerson) => {
+    if (nameOfPerson === 'Gavin' || nameOfPerson === 'Jason' || nameOfPerson === 'Mark') {
+      console.log('Yup!')
+    }
+}    
+
+isAnInstructor('Mark')
+-> Yup
+
+isAnInstructor('Joe')
+-> undefined
+
+isAnInstructor('Gavin', 'Jason')
+-> Yup
+
+isAnInstructor('Bob', 'Jason')
+-> undefined
+
+```
+
+- boolean Logic
+- switch

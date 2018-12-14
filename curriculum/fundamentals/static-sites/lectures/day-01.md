@@ -3,6 +3,30 @@ title: Building Simple Web Pages
 draft: true
 ---
 
+
+### META: Lesson summary
+
+This lesson covers the basic of how the web works, what and HTML page is,  how to get text on the screen and how get a website on the internet. 
+
+Also, if taught in conjunction with the full course, also how to use slack and turning in homework
+
+
+- **general:** file management
+- **general:** using terminal
+- **general:** opening text editor
+- **general:** deploy to surge 
+- **general:** how the internet works
+- **javascript:** using npm
+- **html:** header stuff, like title, favicon, meta tags
+- **html:** semantic HTML
+- **html:** tag: nav
+- **html:** head vs body
+- **html:** using emoji
+- **html:** getting text on a page
+- **logistics:** how to use slack
+- **logistics:** turning in homework
+
+
 ## Introduction
 
 ## How the Internet Works

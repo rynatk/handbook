@@ -3,6 +3,30 @@ title: Styling Basics
 draft: true
 ---
 
+### META: Lesson summary
+This lesson covers:
+
+
+- **html:** added classes to tag
+- **css:** how to use CSS (inline, style tag, *.css)
+- **css:** what is a CSS selector
+- **css:** selector based on tag 
+- **css:** selector based on class
+- **css:** selector based on id
+- **css:** selector based on location
+- **css:** scoping css using parent classes in selectors
+- **css:** using multiple CSS classes
+- **css:** using multiple CSS classes
+- **css:** background images
+- **css:** Box model
+- **css:** shorthand css properties (margin, padding, etc)
+- **css:** px vs em vs rem
+
+
+
+
+
+
 
 ## Styling Basics
 
@@ -101,19 +125,6 @@ With this we will have styled all the `<em>` tags on the page.
 ### Stylesheets
 
 ### Images
-
-## Layout
-
-### Flexbox
-
-### Grids
-
-Just a mention here, don't get into actual code.
-
-Explain flexbox vs grids:
-
-Grids do not replace flexbox, they compliment it. Flexbox = 1D, Grids = 2D
-
 
 
 ## Demo: Goonies(or other idea) Fan Page

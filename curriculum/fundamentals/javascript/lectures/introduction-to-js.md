@@ -26,7 +26,7 @@ video: https://www.youtube.com/watch?v=Z-Q_c2wg2w8&t=2651s&list=PLWwthP6_aKmdxLK
 | *javascript:* if statements
 | *javascript:* truthy and falsy
 | *javascript:* working with dates,
-
+| *javascript:* encapsulating logic for one action
 
 
 ## Introduction to JS

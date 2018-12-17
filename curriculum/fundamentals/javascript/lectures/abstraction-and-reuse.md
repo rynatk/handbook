@@ -7,9 +7,8 @@ draft: true
 | ---
 | *javascript:* Objects,
 | *javascript:* OOP,
-:* encapsulating logic for one action,
 | *javascript:* helper methods on class,
-| *javascript:* Abstraction,
+| *javascript:* Abstraction
 | *javascript:* Encapsulation
 | *javascript:* using data structures to store the data,
 | *javascript:* one function => one task,

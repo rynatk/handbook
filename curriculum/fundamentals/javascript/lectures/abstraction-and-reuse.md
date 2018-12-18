@@ -5,15 +5,14 @@ draft: true
 
 | Learning Objectives
 | ---
-| *javascript:* Objects,
-| *javascript:* OOP,
-| *javascript:* helper methods on class,
-| *javascript:* Abstraction
-| *javascript:* Encapsulation
+| *javascript:* creating objects,
+| *javascript:* understanding object oriented programming ideas,
+| *javascript:* creating helper methods on class,
+| *javascript:* using abstraction
+| *javascript:* using encapsulation
 | *javascript:* using data structures to store the data,
-| *javascript:* one function => one task,
 | *javascript:* using an constructor,
-| *javascript:* scoping around closures
+| *javascript:* exploring scoping of variables 
 
 
 

@@ -5,7 +5,7 @@ draft: true
 
 | Learning Objectives
 | ---
-| *javascript:* event loop
+| *javascript:* understanding the event loop
 
 ### Event Loop
 

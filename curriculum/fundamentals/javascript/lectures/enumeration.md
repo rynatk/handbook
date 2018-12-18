@@ -5,9 +5,13 @@ draft: true
 
 | Learning Objectives
 | --- 
-| *javascript:* loops
-| *javascript:* map/filter/reduce,
-| *javascript:* learning from an example online,
+| *javascript:* using for loops
+| *javascript:* using while loops
+| *javascript:* using forEach
+| *javascript:* using map
+| *javascript:* using filter
+| *javascript:* using reduce
+| *javascript:* learning how to learn from an example online
 
 
 

@@ -6,26 +6,29 @@ video: https://www.youtube.com/watch?v=Z-Q_c2wg2w8&t=2651s&list=PLWwthP6_aKmdxLK
 
 | Learning Objectives
 | ---
-| *javascript:* What is JavaScript?
-| *javascript:* node REPL
-| *javascript:* debugging in JS,
-| *javascript:* variables,
+| *javascript:* understanding how JavaScript fits into web development
+| *javascript:* using the node REPL to run JavaScript outside the browser
+| *javascript:* debugging JavaScript tips and tricks
+| *javascript:* using variables in JavaScript,
 | *javascript:* scoping of variables in JS,
-| *javascript:* linting,
-| *javascript:* formating code,
-| *javascript:* types: Number, bool, string
-| *javascript:* Events : Browser fired events,
-| *javascript:* Events: User Fired Events,
-| *javascript:* What is a function?
-| *javascript:* Anonymous Functions
-| *javascript:* expressions vs functions,
-| *javascript:* math => +-*/%
-| *javascript:* comment your code,
-| *javascript:* Intro to the DOM.
-| *javascript:* Boolean logic of <, >, ===,
-| *javascript:* if statements
-| *javascript:* truthy and falsy
-| *javascript:* working with dates,
+| *javascript:* using linting to create well-formatted code,
+| *javascript:* defining varibles of various types
+| *javascript:* using numbers in JavaScript
+| *javascript:* using strings in JavaScript
+| *javascript:* using booleans in JavaScript
+| *javascript:* listening to browser events
+| *javascript:* listening to user fired events
+| *javascript:* creating functions
+| *javascript:* using anonymous Functions
+| *javascript:* using function expressions
+| *javascript:* creating functions that only do one task
+| *javascript:* using basic math (such as +,-,*,\,%)
+| *javascript:* commenting your code with meaning messages
+| *javascript:* understanding the document object model (DOM)
+| *javascript:* using if statements to control the flow of the program
+| *javascript:* using Boolean logic of <, >, ===,
+| *javascript:* understanding truthy and falsy
+| *javascript:* working with dates
 | *javascript:* encapsulating logic for one action
 
 

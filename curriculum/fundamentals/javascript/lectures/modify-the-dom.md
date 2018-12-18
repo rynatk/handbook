@@ -5,12 +5,11 @@ draft: true
 
 | Learning Objectives
 | ---
-| *javascript:* creating an element,
-| *javascript:* adding element to place on the page,
-| *javascript:* add text with a tag,
-| *javascript:* querySelector,
-| *javascript:* change CSS via js,
-| *javascript:* textContext vs innerHTML,
+| *javascript:* creating and adding an element using JavaScript
+| *javascript:* updating text in the DOM
+| *javascript:* using `querySelector` to find elements in the DOM,
+| *javascript:* updating CSS classes using JavaScript
+| *javascript:* updating CSS properties using JavaScript
 
 
 

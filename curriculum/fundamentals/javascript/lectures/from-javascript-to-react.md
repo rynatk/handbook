@@ -5,9 +5,8 @@ draft: true
 
 | Learning Objectives
 | ---
-| *javascript:* Keeping all changing stuff into state,
-| *javascript:* Page class has a render function,
-| *javascript:* using a Page class with render function,
+| *javascript:* using a global object called `state` to store all changing data
+| *javascript:* creating a Page class has a render function to update the page
 
 ## Summary: 
 

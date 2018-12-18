@@ -7,20 +7,20 @@ draft: true
 
 | Learning Objectives
 | ---
-| *general:* file management for a developer
-| *general:* use the terminal to use the computer
+| *general:* using the terminal to use the computer
 | *general:* using a text editor
-| *general:* deploy a website to the web
-| *general:* how the internet work
+| *general:* deploying a website to the web
+| *general:* understanding how the internet work
+| *general:* asking good questions
 | *javascript:* using npm to run tasks
-| *html:* the basics of an HTML page
-| *html:* the head of HTML page
-| *html:* the body of an HTML page
-| *html:* semantic HTML
-| *html:* common HTML tags (`nav`, `section`, `main`, `header` `hX`, `p`, `ul`, `img`,`a`)
+| *html:* understanding the basics of an HTML page
+| *html:* understanding the head of HTML page
+| *html:* understandingthe body of an HTML page
+| *html:* creating semantic HTML
+| *html:* using common HTML tags (`nav`, `section`, `main`, `header` `hX`, `p`, `ul`, `img`,`a`)
 | *html:* finding the "right" HTML tag
-| *html:* HTML attributes
-| *html:* getting text on a page
+| *html:* adding HTML attributes
+| *html:* displaying text on a page
 | *html:* linking to other pages
 
 

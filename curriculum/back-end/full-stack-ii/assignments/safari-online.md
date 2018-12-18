@@ -34,6 +34,9 @@ We are taking a surprise trip to the Savannah for a safari to see all sorts of e
     - [ ] Create a `GET /Animal/{location}` that returns animals of only that location
     - [ ] Create a `PUT /Animal/{animal}` endpoint that adds 1 to that animal
     - [ ] Create a `DELETE /Animal/{animal}` endpoint that deletes that animal from the database
+
+NOTES: 
+- You may want to delete and recreate your database
  
 ### Adventure Mode
 - [ ] Normalize your database to have `Location` be its own table
@@ -84,9 +87,3 @@ dotnet ef database update
 
 
 
-
-
-
-
-NOTES: 
-- You may want to delete and recreate your database

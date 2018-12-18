@@ -13,7 +13,7 @@ draft: true
 | *css:* creating selector based on id
 | *css:* creating selector based on location
 | *css:* creating complex selectors
-| *css:* rules of specificity
+| *css:* understanding rules of specificity
 | *css:* using multiple CSS classes
 | *css:* adding images to background
 | *css:* using the box model

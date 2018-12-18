@@ -6,10 +6,10 @@ draft: true
 
 | Learning Objectives
 | ---
-| *general:* What is an API?
-| *javascript:* Promises,
-| *javascript:* fetch and using apis,
-| *javascript:* defensive programing (planning for things going wrong)
+| *general:* understanding what an API is
+| *javascript:* using Promises to handle asyncno
+| *javascript:* fetching data from and using APIs
+| *javascript:* using defensive programing to help your code be more resilient
 
 
 
